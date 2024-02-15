@@ -1,0 +1,2 @@
+-- backup e recovery
+-- realizado no terminal
